@@ -105,8 +105,8 @@ As a computer science student and aspiring **SOC Analyst**, I wanted to demonstr
 
 **Carlton Jackson**  
 🛡️ Aspiring SOC Tier 1 Analyst  
-📧 [YourEmail@domain.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINKEDIN)
+📧 carltonjackson56@gmail.com  
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/carlton-jackson-1b0038255/]
 
 ---
 
